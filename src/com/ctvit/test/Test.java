@@ -10,7 +10,7 @@ public class Test {
         System.out.println("Hello World! 测试中文啊啊啊啊啊啊啊啊啊啊啊打扫打扫打扫打扫打扫啊个啊更多vdafgd");
         System.out.println("Hello World! 测试中文啊啊啊啊啊啊啊啊啊啊啊打扫打扫打扫打扫打扫啊个啊更多vdafgd");
         System.out.println("Hello World! 测试中文啊啊啊啊啊啊啊啊啊啊啊打扫打扫打扫打扫打扫啊个啊更多vdafgd");
-        System.out.println("Hello World! 测试中文啊啊啊啊啊啊啊啊啊啊啊打扫打扫打扫打扫打扫啊个啊更多vdafgd");
+        System.out.println("Hello World! 测试中文啊啊1111啊啊啊啊啊啊啊啊啊打扫打扫打扫打扫打扫啊个啊更多vdafgd");
         System.out.println("Hello World! 测试中文啊啊啊啊啊啊啊啊啊啊啊打扫打扫打扫打扫打扫啊个啊更多vdafgd");*/
         TestStream ts1 = TestSingleton.getInstance();
         ts1.setName("jason");
